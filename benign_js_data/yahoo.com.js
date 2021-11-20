@@ -1,1 +1,0 @@
-<script defer="" src="https://s.yimg.com/nn/lib/metro/g/sda/sda_modern_0.0.42.js" type="text/javascript"></script>
