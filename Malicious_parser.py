@@ -1,6 +1,4 @@
 import os
-import io
-from bs4 import BeautifulSoup
 
 path = "C:\\Users\\17862\\OneDrive\\Desktop\\Datasets\\malicious_data"
 
