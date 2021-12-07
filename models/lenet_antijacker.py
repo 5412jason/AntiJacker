@@ -42,7 +42,7 @@ def main():
 	model.add(layers.Dense(units=120, activation='tanh'))
 	model.add(layers.Dense(units=84, activation='tanh'))
 	model.add(layers.Dense(units=1, activation='sigmoid'))
-	model.compile(optimizer=tf.keras.optimizers.Adam(lr=1e-5), loss=tf.keras.losses.BinaryCrossentropy(), metrics=['accuracy'])
+	model.compile(optimizer=tf.keras.optimizers.Adam(lr=1e-5), loss=tf.keras.losses.BinaryCrossentropy(), metrics=['accuracy', tf.keras.metrics.FalsePositives(), tf.keras.metrics.TruePositives(), tf.keras.metrics.TrueNegatives(),tf.keras.metrics.FalseNegatives()])
 	model.summary()
 
 	weights = {0: 2.89,

@@ -53,7 +53,7 @@ def main():
 	model.add(layers.Dense(1, activation='sigmoid'))
 	model.summary()
 
-	model.compile(optimizer=tf.keras.optimizers.Adam(lr=1e-5), loss=tf.keras.losses.BinaryCrossentropy(), metrics=['accuracy'])
+	model.compile(optimizer=tf.keras.optimizers.Adam(lr=1e-5), loss=tf.keras.losses.BinaryCrossentropy(), metrics=['accuracy', tf.keras.metrics.FalsePositives(), tf.keras.metrics.TruePositives(), tf.keras.metrics.TrueNegatives(),tf.keras.metrics.FalseNegatives()])
 
 	weights = {0: 2.89,
 			   1: 0.6}

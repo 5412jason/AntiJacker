@@ -9,7 +9,7 @@ from tqdm import tqdm
 import random
 import pickle
 
-DATADIR = "/home/jason/projects/AntiJacker/entropy"
+DATADIR = "/home/jason/projects/AntiJacker/hilbert"
 CATEGORIES = ["benign", "malicious"]
 X_IMG_SIZE = 32
 Y_IMG_SIZE = 32
